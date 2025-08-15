@@ -26,8 +26,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🗳 [**Medicine-Appointment-Tracking-System
-**](https://github.com/itsharsh9876/Medicine-Appointment-Tracking-System) – Secure & transparent voting system using blockchain & smart contracts.  
+- 🗳 [**Medicine-Appointment-Tracking-System**](https://github.com/itsharsh9876/Medicine-Appointment-Tracking-System) – Secure & transparent voting system using blockchain & smart contracts.  
 - 🌆 [**IoT Smart City Dashboard**](https://github.com/itsharsh9876/iot-smart-city) – IoT-based monitoring & visualization for city planners.  
 - 🧠 [**Mental Health App**](https://github.com/itsharsh9876/mental-health-app) – Mobile app with mood tracking & mindfulness exercises.  
 
