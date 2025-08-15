@@ -8,7 +8,7 @@
 - 🎓 **B.E. Computer Science Engineering @ Chandigarh University (2022–2026)**
 - 💡 Hands-on experience with **Blockchain (Ethereum, Polygon)**, **IoT solutions**, and **Full-Stack Development**
 - 📚 Published **3 research papers** in emerging tech domains
-- 🏆 **3rd place** in Inter-department Hackathon
+
 - 🌱 Currently learning **React Native** & **Cloud IoT Edge ML**
 - 🎯 Passionate about building **secure, scalable, and impactful applications**
 
